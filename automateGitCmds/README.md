@@ -29,8 +29,8 @@ you will need to know, conceptually, to a certain extent:
 Using terminal: 
 1. go (cd) to the correct directory of this code you are saving this script in.
 2. type javac autoGit.java (This will compile the java file into a .class file)
-3. type java autoGit <file name that you want to git submit without the 
-   file type suffix>(This will run the java file)
+3. type java autoGit and file name that you want to git submit without the 
+   file type suffix(This will run the java file)
 
 Using IDE (e.g. IntelliJ IDEA):
 1. Go to Edit Configuration
